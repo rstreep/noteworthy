@@ -4,7 +4,7 @@ const fs = require('fs');
 const readDb = require('./db/db.json');
 const path = require('path');
 const newNoteId = require('./helpers/newnoteid');
-const PORT = 3333;
+const PORT = 3210;
 
 
 const app = express();
