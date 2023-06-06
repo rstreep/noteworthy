@@ -8,7 +8,7 @@ This app is a simple note taking app that allows the user to create a note title
 
 Please start up using 'node server' inside of terminal prior to interacting with webpage
 
-
+![noteworthy preview demo](https://github.com/rstreep/noteworthy/blob/main/public/assets/images/Noteworthy%20Demo.gif?raw=true)
 
 
 
