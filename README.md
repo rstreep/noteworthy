@@ -10,8 +10,10 @@ Please start up using 'node server' inside of terminal prior to interacting with
 
 ![noteworthy preview demo](https://github.com/rstreep/noteworthy/blob/main/public/assets/images/Noteworthy%20Demo.gif?raw=true)
 
+## Live Deployment
 
+https://umbrella-corp.herokuapp.com/
 
 ## License
 
-MIT License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

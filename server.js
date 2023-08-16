@@ -1,10 +1,10 @@
 // defined constant for paths/modules/port
 const express = require('express');
 const fs = require('fs');
-const readDb = require('./db/db.json');
+// const readDb = require('./db/db.json');
 const path = require('path');
 const newNoteId = require('./helpers/newnoteid');
-const PORT = 3210;
+const PORT =  process.env.PORT || 6666;
 
 
 const app = express();
